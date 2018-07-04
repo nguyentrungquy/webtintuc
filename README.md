@@ -1,2 +1,0 @@
-# webtintuc
-news website
